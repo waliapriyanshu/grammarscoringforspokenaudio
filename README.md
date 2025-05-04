@@ -24,12 +24,6 @@ This repository provides a modular implementation of a **Speech-to-Text system**
 - `joblib`
 - `wave` (if using `.wav` files)
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🚀 How to Use
 
 ### 1. Data Exploration
